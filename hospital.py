@@ -4,9 +4,9 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Load CSVs with full path or keep them in the same directory as the script
-patients = pd.read_csv('/Users/micv18/Downloads/archive/patients.csv')
-billing = pd.read_csv('/Users/micv18/Downloads/archive/billing.csv')
-treatments = pd.read_csv('/Users/micv18/Downloads/archive/treatments.csv')
+patients = pd.read_csv('data/patients.csv')
+billing = pd.read_csv('data/billing.csv')
+treatments = pd.read_csv('data/treatments.csv')
 
 # Title
 st.title("🏥 Hospital Analytics Dashboard")
