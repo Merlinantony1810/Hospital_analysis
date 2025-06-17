@@ -58,9 +58,4 @@ MySQL or any SQL environment (for .sql file)
 
 ---
 
-> ✅ **Quick rule of thumb:**
-- Use `bash` after triple backticks only for commands you'd type in a terminal.
-- Don't use code blocks for lists or plain text. Use bullet points or plain text instead.
-
-Let me know if you want help adding a table or image too!
 
