@@ -32,29 +32,35 @@ The SQL file includes:
 ## 🛠️ How to Run
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/Merlinantony1810/Hospital_analysis.git
 cd Hospital_analysis
-```bash
+```
 
-## 2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
-```bash
-
-## 3.Launch the Streamlit App
+```
 
 ```bash
 streamlit run hospital.py
-```bash
+```
 
----
-
-## 📌 Requirements
+### 📌 Requirements
 
 Python 3.8+
 Streamlit
 Pandas, NumPy, Matplotlib, Seaborn
 MySQL or any SQL environment (for .sql file)
+
+
+---
+
+> ✅ **Quick rule of thumb:**
+- Use `bash` after triple backticks only for commands you'd type in a terminal.
+- Don't use code blocks for lists or plain text. Use bullet points or plain text instead.
+
+Let me know if you want help adding a table or image too!
 
