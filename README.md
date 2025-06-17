@@ -58,4 +58,14 @@ MySQL or any SQL environment (for .sql file)
 
 ---
 
+### 🖼️ Dashboard Screenshots
+
+The following visuals are part of the Streamlit dashboard.
+You can also find all images directly in the images/ folder.
+
+💰 Total Revenue by Treatment Type
+🧑‍⚕️ Top Doctor Consultations
+👥 Patient Demographics
+📊 Dashboard Overview
+
 
