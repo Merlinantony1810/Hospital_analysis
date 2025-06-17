@@ -1,0 +1,9 @@
+# Ignore PyCharm project files
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Editor-specific files
+csv-editor.xml
