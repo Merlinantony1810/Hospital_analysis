@@ -35,16 +35,19 @@ The SQL file includes:
 ```bash
 git clone https://github.com/Merlinantony1810/Hospital_analysis.git
 cd Hospital_analysis
+```bash
 
 ## 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+```bash
 
 ## 3.Launch the Streamlit App
 
 ```bash
 streamlit run hospital.py
+```bash
 
 ---
 
